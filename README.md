@@ -66,34 +66,27 @@ The existing SOLT calibration process uses two different types of loads. If freq
 <img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
 
 **TABULATION:** 
-![WhatsApp Image 2025-11-11 at 15 48 23_f6dac256](https://github.com/user-attachments/assets/6c3d194b-3b1e-45de-aa24-f1520ded9a19)
+<img width="356" height="495" alt="image" src="https://github.com/user-attachments/assets/44eeed49-9489-4021-a7ab-5a75e156abdd" />
+<img width="409" height="580" alt="image" src="https://github.com/user-attachments/assets/8e5259df-4aa4-4246-bab0-ce2410c476d7" />
 
 
 
 
-**HORN ANTENNA** 
 
-Beam voltage	:300 V
 
-Beam current	 :25mA
+
 
 **PARABOLICANTENNA**
 
-Beam voltage	:300 V
-
-Beam current	 :25nA
-
-Repeller voltage :-150V
-
-	V1 : -150V
+Beam width of Parabolic antenna 20 degree
+	
 
 **RESULT:**
 
-Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
+Thus the polar pattern and the gain of a  parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna : 22*
 
-Beamwidth of parabolic antenna:	7*	
+Beamwidth of parabolic antenna:	20*	
 
 ## CONCLUSION
 
